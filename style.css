@@ -556,22 +556,6 @@ button:focus {
 
 
 
-/*Percentage Classes */
-
-.eighty-five-percent {
-    height: inherit;
-    width: 85%;
-}
-
-.eighty-percent {
-    height: inherit;
-    width: 80%;
-}
-
-.fifty-percent {
-    height: inherit;
-    width: 50%;
-}
 
 
 @media only screen and (max-width: 572px) {

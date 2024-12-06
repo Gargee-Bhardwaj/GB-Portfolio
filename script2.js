@@ -24,7 +24,7 @@ function fillBar(bar) {
         }
         currentWidth++;
         bar.style.width = currentWidth + '%';
-    }, 5);
+    }, 10);
 
 }
 
